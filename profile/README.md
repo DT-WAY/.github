@@ -7,7 +7,7 @@
     <img src="https://i.imgur.com/6T0PyPd.png" alt="Logo" width="128" height="128">
   </a>
 
-  <h3 align="center">DT_W·A·Y</h3>
+  <h3 align="center">›DT‹ W·A·Y</h3>
 
   <p align="center">
     Slogan
